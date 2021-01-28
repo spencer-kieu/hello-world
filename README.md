@@ -1,7 +1,7 @@
 # hello-world
-Trying out the tutorial/
-Hey y'all
-/
-/
-/
+Trying out the tutorial \n
+Hey y'all \n
+\n
+\n
+\n
 Bye y'all
